@@ -1,0 +1,10 @@
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C++++4__13.csprojAssemblyReference.cache
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C____4__13.MDINotepad.resources
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C____4__13.Notepad.resources
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C____4__13.Properties.Resources.resources
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C++++4__13.csproj.GenerateResource.cache
+D:\编程练习\VS2019_C#\C++++4__13\bin\Release\C____4__13.exe.config
+D:\编程练习\VS2019_C#\C++++4__13\bin\Release\C____4__13.exe
+D:\编程练习\VS2019_C#\C++++4__13\bin\Release\C____4__13.pdb
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C____4__13.exe
+D:\编程练习\VS2019_C#\C++++4__13\obj\Release\C____4__13.pdb
